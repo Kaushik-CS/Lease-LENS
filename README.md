@@ -1,6 +1,6 @@
 # LEASE LENS — Agreement Intelligence
 
-A premium, KAERO-inspired rental agreement screening prototype built with React and Vite. The interface uses a champagne-gold visual system, cinematic splash intro, subtle radar/orbit detailing and a cursor-following ambient glow. It extracts selectable text from PDF files and compares the text against transparent phrase-based screening rules.
+A premium, Rental agreement screening prototype built with React and Vite. The interface uses a champagne-gold visual system, cinematic splash intro, subtle radar/orbit detailing and a cursor-following ambient glow. It extracts selectable text from PDF files and compares the text against transparent phrase-based screening rules.
 
 ## Requirements
 - Node.js 20.19+ or 22.12+ (required by current Vite releases)
